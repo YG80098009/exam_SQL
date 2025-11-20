@@ -1,4 +1,4 @@
 # exam_SQL
 # yehuda gavrieli
-# arava
+# class arava
 # 324942259
